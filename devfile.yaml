@@ -1,0 +1,10 @@
+schemaVersion: 2.1.0
+metadata:
+  name: helloworld
+  namespace: che-kube-admin-devspaces-7i7yz1
+projects:
+  - git:
+      remotes:
+        origin: 'https://github.com/mukulk2020/helloworld.git'
+    name: helloworld
+components: []
