@@ -1,4 +1,4 @@
-schemaVersion: 2.1.0
+schemaVersion: 2.2.0
 metadata:
   name: helloworld
   namespace: che-kube-admin-devspaces-7i7yz1
@@ -8,3 +8,10 @@ projects:
         origin: 'https://github.com/mukulk2020/helloworld.git'
     name: helloworld
 components: []
+attributes:
+  .vscode/extensions.json: |
+    {
+      "recommendations": [
+        "redhat.java"
+      ]
+    }
