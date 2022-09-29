@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: helloworld
+  name: helloworld-app
   namespace: che-kube-admin-devspaces-7i7yz1
 projects:
   - git:
