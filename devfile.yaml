@@ -1,7 +1,7 @@
 schemaVersion: 2.2.0
 metadata:
   name: helloworld
-  namespace: che-kube-admin-devspaces-7i7yz1
+  namespace: che-kube-admin-devspaces-w32v02
 projects:
   - git:
       remotes:
